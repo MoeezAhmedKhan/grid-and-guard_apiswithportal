@@ -1,0 +1,12 @@
+[06-Apr-2023 15:25:03 UTC] PHP Warning:  require(/home/sassolut/public_html/Twilio/Rest/Client.php): Failed to open stream: No such file or directory in /home/sassolut/public_html/neethane/autoload.php on line 140
+[06-Apr-2023 15:25:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sassolut/public_html/Twilio/Rest/Client.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sassolut/public_html/neethane/autoload.php:140
+Stack trace:
+#0 /home/sassolut/public_html/neethane/test.php(13): SplClassLoader->loadClass()
+#1 {main}
+  thrown in /home/sassolut/public_html/neethane/autoload.php on line 140
+[06-Apr-2023 15:25:20 UTC] PHP Warning:  require(/home/sassolut/public_html/Twilio/Rest/Client.php): Failed to open stream: No such file or directory in /home/sassolut/public_html/neethane/autoload.php on line 140
+[06-Apr-2023 15:25:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sassolut/public_html/Twilio/Rest/Client.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sassolut/public_html/neethane/autoload.php:140
+Stack trace:
+#0 /home/sassolut/public_html/neethane/test.php(13): SplClassLoader->loadClass()
+#1 {main}
+  thrown in /home/sassolut/public_html/neethane/autoload.php on line 140

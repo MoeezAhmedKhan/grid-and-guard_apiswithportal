@@ -1,0 +1,34 @@
+[24-Feb-2023 09:01:49 UTC] PHP Warning:  Undefined array key "checkbox" in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 782
+[24-Feb-2023 09:02:38 UTC] PHP Warning:  Undefined array key "checkbox" in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 782
+[28-Feb-2023 11:02:41 UTC] PHP Warning:  Undefined variable $taskid in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 694
+[28-Feb-2023 11:03:37 UTC] PHP Warning:  Undefined variable $taskid in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 694
+[30-Mar-2023 09:51:37 UTC] PHP Warning:  Undefined variable $email in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 254
+[30-Mar-2023 09:51:37 UTC] PHP Warning:  Undefined variable $phone in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 259
+[05-Apr-2023 10:50:23 UTC] PHP Warning:  Undefined variable $filetemploc in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 504
+[05-Apr-2023 10:50:23 UTC] PHP Warning:  Undefined variable $target_dir in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 504
+[05-Apr-2023 10:50:23 UTC] PHP Warning:  Undefined variable $target_dir in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 505
+[05-Apr-2023 10:50:23 UTC] PHP Warning:  unlink(202304055922Guard_Profile.jpg): No such file or directory in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 505
+[19-Apr-2023 20:37:19 UTC] PHP Warning:  Undefined array key "checkbox" in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 782
+[19-Apr-2023 20:37:19 UTC] PHP Warning:  Undefined array key "patrol_id" in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 783
+[19-Apr-2023 20:37:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 794
+[19-Apr-2023 20:39:46 UTC] PHP Warning:  Undefined array key "checkbox" in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 782
+[19-Apr-2023 20:39:46 UTC] PHP Warning:  Undefined array key "patrol_id" in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 783
+[19-Apr-2023 20:39:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 794
+[20-Apr-2023 00:46:13 UTC] PHP Warning:  Undefined variable $filetemploc in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 504
+[20-Apr-2023 00:46:13 UTC] PHP Warning:  Undefined variable $target_dir in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 504
+[20-Apr-2023 00:46:13 UTC] PHP Warning:  Undefined variable $target_dir in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 505
+[20-Apr-2023 00:46:13 UTC] PHP Warning:  unlink(202304153726Guard_Profile.jpg): No such file or directory in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 505
+[20-Apr-2023 00:53:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'type' doesn't have a default value in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php:583
+Stack trace:
+#0 /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php(583): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 583
+[20-Apr-2023 00:55:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'type' doesn't have a default value in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php:583
+Stack trace:
+#0 /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php(583): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/insertions.php on line 583
+[20-Apr-2023 00:55:50 UTC] PHP Warning:  Undefined variable $filetemploc in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 504
+[20-Apr-2023 00:55:50 UTC] PHP Warning:  Undefined variable $target_dir in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 504
+[20-Apr-2023 00:55:50 UTC] PHP Warning:  Undefined variable $target_dir in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 505
+[20-Apr-2023 00:55:50 UTC] PHP Warning:  unlink(202320045342Guard_Image.jpg): No such file or directory in /home/sassolut/public_html/neethane/grid/admin_panel/phpfiles/action.php on line 505
